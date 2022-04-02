@@ -1,0 +1,6 @@
+framework module Swin {
+  umbrella header "Swin-umbrella.h"
+
+  export *
+  module * { export * }
+}
